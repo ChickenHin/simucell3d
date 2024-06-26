@@ -29,7 +29,7 @@ The technique used to compute the contact forces can be chosen via the following
     - 2 : The contact forces are computed mechanically linking pairs of adjacent faces
 
 */
-#define CONTACT_MODEL_INDEX 1
+#define CONTACT_MODEL_INDEX 2
 
 
 /*The dynamic model and the time integration scheme used to run the simulation can be chosen via the following index:
