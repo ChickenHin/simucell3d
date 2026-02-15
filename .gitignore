@@ -22,3 +22,9 @@ ralph-task.md
 
 # Git worktrees for isolated development
 .worktrees/
+
+# CTest artifacts
+Testing/
+
+# Generated analysis reports
+codebase-analysis-report.md
